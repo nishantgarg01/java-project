@@ -8,7 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        final String msg1="msg1";
+	System.out.println(lo);
+	system.out.println(res_bundling.getBundle(msg1));
 	
     }
 
